@@ -20,8 +20,8 @@ Efficient supply chain management is critical for reducing costs, improving deli
 
 | Category | Tools |
 |--------|------|
-| 📊 Data Analysis | Excel |
-| 🧹 Data Cleaning | Excel |
+| 📊 Data Analysis | Power BI |
+| 🧹 Data Cleaning | Power BI |
 | 📈 Visualization | Power BI |
 | 🔍 Analysis Type | Descriptive & Operational Analytics |
 | 🧠 Business Insights | Cost optimization & supplier performance |
